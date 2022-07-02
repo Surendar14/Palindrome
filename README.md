@@ -22,7 +22,8 @@ class HelloWorld {
     Console.WriteLine(dupvalue+" is not a palindrom");
     }
 }
-````
+
+````````````````
 
 ## Output:
 ![Screenshot (45)](https://user-images.githubusercontent.com/75235759/163821515-00fea559-e10c-48d2-8660-3f4a0d6bb445.png)
